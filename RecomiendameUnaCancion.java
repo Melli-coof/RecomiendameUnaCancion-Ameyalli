@@ -12,5 +12,12 @@ System.out.println("Ameyalli te recomienda:");
 System.out.println("Canción: Tesoros");
 System.out.println("Artista: El mulu");
 System.out.println("¿Por qué?: El instrumental, la voz y la letra son bellos, tiene mucho sentimiento");
+
+// Recomendación agregada por Ludwin
+System.out.println();
+System.out.println("Ludwin recomienda:");
+System.out.println("Canción: semanas");
+System.out.println("Artista: Charlie USG");
+System.out.println("¿Por qué?: La letra transmite una nostalgia muy sincera y directa.");
 }
 }
